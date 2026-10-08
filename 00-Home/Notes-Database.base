@@ -1,0 +1,39 @@
+filters:
+  and:
+    - file.ext == "md"
+    - type != ""
+views:
+  - type: table
+    name: All notes by module
+    groupBy:
+      property: module
+      direction: ASC
+    order:
+      - file.name
+      - type
+      - status
+      - interview-relevance
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Labs and projects
+    filters:
+      or:
+        - type == "lab"
+        - type == "project"
+    order:
+      - file.name
+      - module
+      - status
+      - repo
+  - type: table
+    name: Interview material
+    filters:
+      or:
+        - type == "interview"
+        - type == "cheatsheet"
+    order:
+      - file.name
+      - module
+      - interview-relevance

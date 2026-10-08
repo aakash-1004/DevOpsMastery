@@ -1,0 +1,135 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:00-Fundamentals",
+      "color": {
+        "a": 1,
+        "rgb": 6000111
+      }
+    },
+    {
+      "query": "path:01-Linux-Bash",
+      "color": {
+        "a": 1,
+        "rgb": 3059051
+      }
+    },
+    {
+      "query": "path:02-Python-DevOps",
+      "color": {
+        "a": 1,
+        "rgb": 14721072
+      }
+    },
+    {
+      "query": "path:03-Git",
+      "color": {
+        "a": 1,
+        "rgb": 13784381
+      }
+    },
+    {
+      "query": "path:04-Docker",
+      "color": {
+        "a": 1,
+        "rgb": 9329616
+      }
+    },
+    {
+      "query": "path:05-Kubernetes",
+      "color": {
+        "a": 1,
+        "rgb": 2864064
+      }
+    },
+    {
+      "query": "path:06-AWS",
+      "color": {
+        "a": 1,
+        "rgb": 12603530
+      }
+    },
+    {
+      "query": "path:07-CICD",
+      "color": {
+        "a": 1,
+        "rgb": 8034862
+      }
+    },
+    {
+      "query": "path:08-Terraform",
+      "color": {
+        "a": 1,
+        "rgb": 14711609
+      }
+    },
+    {
+      "query": "path:09-Monitoring",
+      "color": {
+        "a": 1,
+        "rgb": 5205370
+      }
+    },
+    {
+      "query": "path:10-Deployment",
+      "color": {
+        "a": 1,
+        "rgb": 4160684
+      }
+    },
+    {
+      "query": "path:11-Azure",
+      "color": {
+        "a": 1,
+        "rgb": 9080209
+      }
+    },
+    {
+      "query": "path:12-GCP",
+      "color": {
+        "a": 1,
+        "rgb": 11887901
+      }
+    },
+    {
+      "query": "path:13-Interview-Prep",
+      "color": {
+        "a": 1,
+        "rgb": 7107965
+      }
+    },
+    {
+      "query": "path:14-Revision",
+      "color": {
+        "a": 1,
+        "rgb": 10181046
+      }
+    },
+    {
+      "query": "path:00-Home",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.02998510897523,
+  "lineSizeMultiplier": 1.70923243535942,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.476986197222024,
+  "close": true
+}
